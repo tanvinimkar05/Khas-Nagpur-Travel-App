@@ -1,0 +1,1542 @@
+[
+  {
+    "place_name":"Deekshabhoomi",
+    "description":"Family - Museum",
+    "distance_km":60,
+    "rating":4.4,
+    "image":"images\/Deekshabhoomi_image_1.jpg"
+  },
+  {
+    "place_name":"Futala Lake",
+    "description":"Nature - Museum",
+    "distance_km":104,
+    "rating":4.2,
+    "image":"images\/Futala Lake_image_1.jpg"
+  },
+  {
+    "place_name":"Ambazari Lake",
+    "description":"Nature - Sanctuary",
+    "distance_km":92,
+    "rating":4.1,
+    "image":"images\/Ambazari Lake_image_1.jpg"
+  },
+  {
+    "place_name":"Gorewada Bio Park",
+    "description":"Wildlife - Lake",
+    "distance_km":96,
+    "rating":4.5,
+    "image":"images\/Gorewada Bio Park_image_1.jpg"
+  },
+  {
+    "place_name":"Ramtek Temple",
+    "description":"Family - Temple",
+    "distance_km":118,
+    "rating":4.6,
+    "image":"images\/Ramtek Temple_image_1.jpg"
+  },
+  {
+    "place_name":"Dragon Palace",
+    "description":"Nature - Lake",
+    "distance_km":114,
+    "rating":4.3,
+    "image":"images\/Dragon Palace_image_1.jpg"
+  },
+  {
+    "place_name":"Khindsi Lake",
+    "description":"Family - Fort",
+    "distance_km":71,
+    "rating":4.5,
+    "image":"images\/Khindsi Lake_image_1.jpg"
+  },
+  {
+    "place_name":"Pench Tiger Reserve",
+    "description":"Adventure - Garden",
+    "distance_km":103,
+    "rating":4.8,
+    "image":"images\/Pench Tiger Reserve_image_1.jpg"
+  },
+  {
+    "place_name":"Maharaj Baug",
+    "description":"Nature - Hill",
+    "distance_km":87,
+    "rating":4.2,
+    "image":"images\/Maharaj Baug_image_1.jpg"
+  },
+  {
+    "place_name":"Zero Mile",
+    "description":"Nature - Hill",
+    "distance_km":101,
+    "rating":4.5,
+    "image":"images\/Zero Mile_image_1.jpg"
+  },
+  {
+    "place_name":"Sitabuldi Fort",
+    "description":"Family - Museum",
+    "distance_km":20,
+    "rating":4.9,
+    "image":"images\/Sitabuldi Fort_image_1.jpg"
+  },
+  {
+    "place_name":"Raman Science Centre",
+    "description":"Adventure - Sanctuary",
+    "distance_km":4,
+    "rating":4.9,
+    "image":"images\/Raman Science Centre_image_1.jpg"
+  },
+  {
+    "place_name":"Nagardhan Fort",
+    "description":"Family - Sanctuary",
+    "distance_km":27,
+    "rating":4.2,
+    "image":"images\/Nagardhan Fort_image_1.jpg"
+  },
+  {
+    "place_name":"Mansar Site",
+    "description":"Educational - Fort",
+    "distance_km":48,
+    "rating":4.1,
+    "image":"images\/Mansar Site_image_1.jpg"
+  },
+  {
+    "place_name":"Zilpi Lake",
+    "description":"Nature - Garden",
+    "distance_km":31,
+    "rating":4.1,
+    "image":"images\/Zilpi Lake_image_1.jpg"
+  },
+  {
+    "place_name":"Koradi Temple",
+    "description":"Family - Hill",
+    "distance_km":39,
+    "rating":4.7,
+    "image":"images\/Koradi Temple_image_1.jpg"
+  },
+  {
+    "place_name":"Adasa Ganpati",
+    "description":"Family - Lake",
+    "distance_km":28,
+    "rating":4.8,
+    "image":"images\/Adasa Ganpati_image_1.jpg"
+  },
+  {
+    "place_name":"Seminary Hills",
+    "description":"Family - Fort",
+    "distance_km":68,
+    "rating":4.2,
+    "image":"images\/Seminary Hills_image_1.jpg"
+  },
+  {
+    "place_name":"Japanese Rose Garden",
+    "description":"Educational - Temple",
+    "distance_km":104,
+    "rating":4.3,
+    "image":"images\/Japanese Rose Garden_image_1.jpg"
+  },
+  {
+    "place_name":"Waki Woods",
+    "description":"Spiritual - Hidden Gem",
+    "distance_km":33,
+    "rating":4.5,
+    "image":"images\/Waki Woods_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 21",
+    "description":"Family - Fort",
+    "distance_km":77,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 21_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 22",
+    "description":"Spiritual - Garden",
+    "distance_km":53,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 22_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 23",
+    "description":"Couple - Hidden Gem",
+    "distance_km":67,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 23_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 24",
+    "description":"Adventure - Fort",
+    "distance_km":9,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 24_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 25",
+    "description":"Adventure - Hill",
+    "distance_km":11,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 25_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 26",
+    "description":"Adventure - Lake",
+    "distance_km":57,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 26_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 27",
+    "description":"Family - Garden",
+    "distance_km":76,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 27_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 28",
+    "description":"Spiritual - Museum",
+    "distance_km":99,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 28_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 29",
+    "description":"Nature - Museum",
+    "distance_km":7,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 29_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 30",
+    "description":"Educational - Garden",
+    "distance_km":90,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 30_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 31",
+    "description":"Spiritual - Hill",
+    "distance_km":52,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 31_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 32",
+    "description":"Family - Hidden Gem",
+    "distance_km":36,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 32_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 33",
+    "description":"Educational - Lake",
+    "distance_km":35,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 33_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 34",
+    "description":"Family - Sanctuary",
+    "distance_km":44,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 34_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 35",
+    "description":"Spiritual - Hidden Gem",
+    "distance_km":3,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 35_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 36",
+    "description":"Family - Garden",
+    "distance_km":115,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 36_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 37",
+    "description":"Couple - Sanctuary",
+    "distance_km":35,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 37_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 38",
+    "description":"Heritage - Museum",
+    "distance_km":74,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 38_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 39",
+    "description":"Nature - Museum",
+    "distance_km":19,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 39_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 40",
+    "description":"Spiritual - Sanctuary",
+    "distance_km":32,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 40_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 41",
+    "description":"Spiritual - Hill",
+    "distance_km":74,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 41_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 42",
+    "description":"Wildlife - Hill",
+    "distance_km":67,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 42_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 43",
+    "description":"Heritage - Hill",
+    "distance_km":43,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 43_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 44",
+    "description":"Heritage - Hill",
+    "distance_km":114,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 44_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 45",
+    "description":"Wildlife - Lake",
+    "distance_km":23,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 45_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 46",
+    "description":"Couple - Hidden Gem",
+    "distance_km":18,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 46_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 47",
+    "description":"Family - Garden",
+    "distance_km":39,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 47_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 48",
+    "description":"Adventure - Temple",
+    "distance_km":83,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 48_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 49",
+    "description":"Heritage - Hidden Gem",
+    "distance_km":17,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 49_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 50",
+    "description":"Heritage - Lake",
+    "distance_km":32,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 50_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 51",
+    "description":"Family - Hill",
+    "distance_km":5,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 51_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 52",
+    "description":"Family - Lake",
+    "distance_km":93,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 52_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 53",
+    "description":"Wildlife - Garden",
+    "distance_km":55,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 53_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 54",
+    "description":"Nature - Hill",
+    "distance_km":79,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 54_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 55",
+    "description":"Heritage - Sanctuary",
+    "distance_km":22,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 55_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 56",
+    "description":"Couple - Temple",
+    "distance_km":101,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 56_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 57",
+    "description":"Adventure - Garden",
+    "distance_km":37,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 57_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 58",
+    "description":"Couple - Temple",
+    "distance_km":70,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 58_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 59",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":59,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 59_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 60",
+    "description":"Heritage - Sanctuary",
+    "distance_km":55,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 60_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 61",
+    "description":"Educational - Fort",
+    "distance_km":92,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 61_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 62",
+    "description":"Family - Hidden Gem",
+    "distance_km":57,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 62_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 63",
+    "description":"Nature - Museum",
+    "distance_km":22,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 63_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 64",
+    "description":"Adventure - Fort",
+    "distance_km":68,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 64_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 65",
+    "description":"Heritage - Hill",
+    "distance_km":34,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 65_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 66",
+    "description":"Heritage - Hidden Gem",
+    "distance_km":100,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 66_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 67",
+    "description":"Wildlife - Museum",
+    "distance_km":119,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 67_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 68",
+    "description":"Educational - Temple",
+    "distance_km":5,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 68_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 69",
+    "description":"Family - Garden",
+    "distance_km":115,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 69_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 70",
+    "description":"Couple - Garden",
+    "distance_km":17,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 70_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 71",
+    "description":"Educational - Museum",
+    "distance_km":74,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 71_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 72",
+    "description":"Spiritual - Museum",
+    "distance_km":33,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 72_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 73",
+    "description":"Family - Garden",
+    "distance_km":63,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 73_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 74",
+    "description":"Couple - Temple",
+    "distance_km":84,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 74_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 75",
+    "description":"Nature - Sanctuary",
+    "distance_km":34,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 75_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 76",
+    "description":"Heritage - Hidden Gem",
+    "distance_km":99,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 76_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 77",
+    "description":"Family - Hidden Gem",
+    "distance_km":65,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 77_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 78",
+    "description":"Heritage - Fort",
+    "distance_km":79,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 78_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 79",
+    "description":"Family - Hidden Gem",
+    "distance_km":111,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 79_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 80",
+    "description":"Heritage - Hill",
+    "distance_km":87,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 80_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 81",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":68,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 81_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 82",
+    "description":"Couple - Lake",
+    "distance_km":52,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 82_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 83",
+    "description":"Adventure - Museum",
+    "distance_km":1,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 83_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 84",
+    "description":"Heritage - Lake",
+    "distance_km":104,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 84_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 85",
+    "description":"Wildlife - Sanctuary",
+    "distance_km":3,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 85_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 86",
+    "description":"Educational - Sanctuary",
+    "distance_km":25,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 86_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 87",
+    "description":"Couple - Fort",
+    "distance_km":110,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 87_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 88",
+    "description":"Spiritual - Museum",
+    "distance_km":92,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 88_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 89",
+    "description":"Family - Hidden Gem",
+    "distance_km":98,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 89_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 90",
+    "description":"Nature - Lake",
+    "distance_km":56,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 90_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 91",
+    "description":"Nature - Hidden Gem",
+    "distance_km":74,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 91_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 92",
+    "description":"Couple - Lake",
+    "distance_km":117,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 92_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 93",
+    "description":"Heritage - Garden",
+    "distance_km":51,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 93_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 94",
+    "description":"Couple - Hill",
+    "distance_km":44,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 94_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 95",
+    "description":"Couple - Temple",
+    "distance_km":91,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 95_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 96",
+    "description":"Adventure - Garden",
+    "distance_km":85,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 96_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 97",
+    "description":"Adventure - Garden",
+    "distance_km":8,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 97_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 98",
+    "description":"Nature - Temple",
+    "distance_km":89,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 98_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 99",
+    "description":"Nature - Museum",
+    "distance_km":103,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 99_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 100",
+    "description":"Adventure - Fort",
+    "distance_km":53,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 100_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 101",
+    "description":"Educational - Garden",
+    "distance_km":61,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 101_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 102",
+    "description":"Spiritual - Museum",
+    "distance_km":3,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 102_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 103",
+    "description":"Educational - Lake",
+    "distance_km":100,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 103_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 104",
+    "description":"Adventure - Garden",
+    "distance_km":55,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 104_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 105",
+    "description":"Wildlife - Museum",
+    "distance_km":37,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 105_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 106",
+    "description":"Family - Fort",
+    "distance_km":20,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 106_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 107",
+    "description":"Nature - Garden",
+    "distance_km":109,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 107_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 108",
+    "description":"Heritage - Hill",
+    "distance_km":36,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 108_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 109",
+    "description":"Family - Temple",
+    "distance_km":104,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 109_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 110",
+    "description":"Couple - Garden",
+    "distance_km":71,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 110_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 111",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":114,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 111_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 112",
+    "description":"Adventure - Hill",
+    "distance_km":48,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 112_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 113",
+    "description":"Family - Sanctuary",
+    "distance_km":64,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 113_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 114",
+    "description":"Spiritual - Hidden Gem",
+    "distance_km":77,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 114_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 115",
+    "description":"Nature - Museum",
+    "distance_km":31,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 115_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 116",
+    "description":"Educational - Lake",
+    "distance_km":24,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 116_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 117",
+    "description":"Heritage - Temple",
+    "distance_km":57,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 117_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 118",
+    "description":"Couple - Hill",
+    "distance_km":4,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 118_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 119",
+    "description":"Adventure - Hill",
+    "distance_km":11,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 119_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 120",
+    "description":"Nature - Lake",
+    "distance_km":24,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 120_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 121",
+    "description":"Wildlife - Sanctuary",
+    "distance_km":115,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 121_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 122",
+    "description":"Nature - Lake",
+    "distance_km":91,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 122_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 123",
+    "description":"Couple - Hidden Gem",
+    "distance_km":97,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 123_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 124",
+    "description":"Educational - Garden",
+    "distance_km":79,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 124_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 125",
+    "description":"Heritage - Sanctuary",
+    "distance_km":50,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 125_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 126",
+    "description":"Family - Sanctuary",
+    "distance_km":95,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 126_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 127",
+    "description":"Family - Garden",
+    "distance_km":27,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 127_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 128",
+    "description":"Adventure - Sanctuary",
+    "distance_km":13,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 128_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 129",
+    "description":"Spiritual - Hill",
+    "distance_km":1,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 129_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 130",
+    "description":"Family - Temple",
+    "distance_km":100,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 130_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 131",
+    "description":"Family - Fort",
+    "distance_km":66,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 131_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 132",
+    "description":"Heritage - Fort",
+    "distance_km":4,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 132_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 133",
+    "description":"Educational - Fort",
+    "distance_km":58,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 133_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 134",
+    "description":"Spiritual - Lake",
+    "distance_km":7,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 134_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 135",
+    "description":"Nature - Sanctuary",
+    "distance_km":68,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 135_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 136",
+    "description":"Heritage - Temple",
+    "distance_km":18,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 136_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 137",
+    "description":"Nature - Sanctuary",
+    "distance_km":34,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 137_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 138",
+    "description":"Heritage - Lake",
+    "distance_km":52,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 138_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 139",
+    "description":"Nature - Garden",
+    "distance_km":65,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 139_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 140",
+    "description":"Nature - Lake",
+    "distance_km":111,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 140_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 141",
+    "description":"Spiritual - Lake",
+    "distance_km":44,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 141_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 142",
+    "description":"Heritage - Fort",
+    "distance_km":4,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 142_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 143",
+    "description":"Wildlife - Fort",
+    "distance_km":88,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 143_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 144",
+    "description":"Educational - Temple",
+    "distance_km":88,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 144_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 145",
+    "description":"Family - Lake",
+    "distance_km":66,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 145_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 146",
+    "description":"Educational - Lake",
+    "distance_km":95,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 146_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 147",
+    "description":"Family - Fort",
+    "distance_km":21,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 147_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 148",
+    "description":"Wildlife - Temple",
+    "distance_km":91,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 148_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 149",
+    "description":"Educational - Lake",
+    "distance_km":13,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 149_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 150",
+    "description":"Nature - Museum",
+    "distance_km":33,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 150_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 151",
+    "description":"Heritage - Sanctuary",
+    "distance_km":60,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 151_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 152",
+    "description":"Adventure - Fort",
+    "distance_km":37,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 152_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 153",
+    "description":"Heritage - Garden",
+    "distance_km":85,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 153_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 154",
+    "description":"Nature - Lake",
+    "distance_km":49,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 154_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 155",
+    "description":"Couple - Fort",
+    "distance_km":33,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 155_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 156",
+    "description":"Family - Garden",
+    "distance_km":39,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 156_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 157",
+    "description":"Adventure - Sanctuary",
+    "distance_km":18,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 157_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 158",
+    "description":"Family - Garden",
+    "distance_km":117,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 158_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 159",
+    "description":"Wildlife - Hill",
+    "distance_km":40,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 159_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 160",
+    "description":"Educational - Museum",
+    "distance_km":96,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 160_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 161",
+    "description":"Spiritual - Hill",
+    "distance_km":21,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 161_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 162",
+    "description":"Family - Garden",
+    "distance_km":35,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 162_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 163",
+    "description":"Spiritual - Lake",
+    "distance_km":70,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 163_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 164",
+    "description":"Adventure - Museum",
+    "distance_km":63,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 164_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 165",
+    "description":"Nature - Temple",
+    "distance_km":73,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 165_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 166",
+    "description":"Spiritual - Fort",
+    "distance_km":41,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 166_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 167",
+    "description":"Spiritual - Fort",
+    "distance_km":117,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 167_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 168",
+    "description":"Spiritual - Sanctuary",
+    "distance_km":58,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 168_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 169",
+    "description":"Educational - Lake",
+    "distance_km":1,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 169_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 170",
+    "description":"Nature - Fort",
+    "distance_km":74,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 170_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 171",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":79,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 171_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 172",
+    "description":"Educational - Temple",
+    "distance_km":45,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 172_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 173",
+    "description":"Couple - Garden",
+    "distance_km":48,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 173_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 174",
+    "description":"Wildlife - Lake",
+    "distance_km":32,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 174_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 175",
+    "description":"Family - Temple",
+    "distance_km":14,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 175_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 176",
+    "description":"Adventure - Sanctuary",
+    "distance_km":110,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 176_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 177",
+    "description":"Adventure - Garden",
+    "distance_km":64,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 177_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 178",
+    "description":"Couple - Hidden Gem",
+    "distance_km":61,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 178_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 179",
+    "description":"Couple - Hill",
+    "distance_km":32,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 179_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 180",
+    "description":"Heritage - Garden",
+    "distance_km":98,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 180_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 181",
+    "description":"Educational - Hill",
+    "distance_km":109,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 181_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 182",
+    "description":"Couple - Sanctuary",
+    "distance_km":105,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 182_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 183",
+    "description":"Educational - Temple",
+    "distance_km":56,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 183_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 184",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":2,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 184_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 185",
+    "description":"Wildlife - Museum",
+    "distance_km":61,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 185_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 186",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":78,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 186_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 187",
+    "description":"Adventure - Hidden Gem",
+    "distance_km":81,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 187_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 188",
+    "description":"Educational - Lake",
+    "distance_km":52,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 188_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 189",
+    "description":"Family - Museum",
+    "distance_km":102,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 189_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 190",
+    "description":"Family - Fort",
+    "distance_km":45,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 190_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 191",
+    "description":"Nature - Hill",
+    "distance_km":102,
+    "rating":4.9,
+    "image":"images\/Nagpur Tourist Spot 191_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 192",
+    "description":"Nature - Garden",
+    "distance_km":41,
+    "rating":4.0,
+    "image":"images\/Nagpur Tourist Spot 192_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 193",
+    "description":"Wildlife - Hill",
+    "distance_km":78,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 193_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 194",
+    "description":"Heritage - Hill",
+    "distance_km":3,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 194_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 195",
+    "description":"Heritage - Museum",
+    "distance_km":103,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 195_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 196",
+    "description":"Educational - Lake",
+    "distance_km":73,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 196_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 197",
+    "description":"Educational - Temple",
+    "distance_km":44,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 197_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 198",
+    "description":"Couple - Museum",
+    "distance_km":116,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 198_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 199",
+    "description":"Nature - Museum",
+    "distance_km":92,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 199_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 200",
+    "description":"Educational - Lake",
+    "distance_km":49,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 200_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 201",
+    "description":"Heritage - Hill",
+    "distance_km":47,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 201_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 202",
+    "description":"Couple - Museum",
+    "distance_km":100,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 202_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 203",
+    "description":"Heritage - Sanctuary",
+    "distance_km":7,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 203_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 204",
+    "description":"Family - Sanctuary",
+    "distance_km":45,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 204_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 205",
+    "description":"Couple - Temple",
+    "distance_km":39,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 205_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 206",
+    "description":"Educational - Fort",
+    "distance_km":13,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 206_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 207",
+    "description":"Couple - Garden",
+    "distance_km":105,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 207_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 208",
+    "description":"Heritage - Lake",
+    "distance_km":54,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 208_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 209",
+    "description":"Couple - Temple",
+    "distance_km":30,
+    "rating":4.7,
+    "image":"images\/Nagpur Tourist Spot 209_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 210",
+    "description":"Spiritual - Sanctuary",
+    "distance_km":90,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 210_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 211",
+    "description":"Heritage - Hidden Gem",
+    "distance_km":90,
+    "rating":4.4,
+    "image":"images\/Nagpur Tourist Spot 211_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 212",
+    "description":"Nature - Lake",
+    "distance_km":72,
+    "rating":4.3,
+    "image":"images\/Nagpur Tourist Spot 212_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 213",
+    "description":"Spiritual - Temple",
+    "distance_km":93,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 213_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 214",
+    "description":"Educational - Temple",
+    "distance_km":53,
+    "rating":4.1,
+    "image":"images\/Nagpur Tourist Spot 214_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 215",
+    "description":"Nature - Museum",
+    "distance_km":90,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 215_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 216",
+    "description":"Nature - Hidden Gem",
+    "distance_km":92,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 216_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 217",
+    "description":"Nature - Fort",
+    "distance_km":71,
+    "rating":4.2,
+    "image":"images\/Nagpur Tourist Spot 217_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 218",
+    "description":"Nature - Hill",
+    "distance_km":95,
+    "rating":4.5,
+    "image":"images\/Nagpur Tourist Spot 218_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 219",
+    "description":"Wildlife - Hidden Gem",
+    "distance_km":81,
+    "rating":4.8,
+    "image":"images\/Nagpur Tourist Spot 219_image_1.jpg"
+  },
+  {
+    "place_name":"Nagpur Tourist Spot 220",
+    "description":"Adventure - Hill",
+    "distance_km":90,
+    "rating":4.6,
+    "image":"images\/Nagpur Tourist Spot 220_image_1.jpg"
+  }
+]
